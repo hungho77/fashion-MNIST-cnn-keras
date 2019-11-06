@@ -43,8 +43,8 @@ I evaluate on Test set with 10,000 samples.
 * Test accuracy: 94.25%
 
 The following picture shows the trend of the Accuracy of the final learning:
-![alt text](https://github.com/hohung77/fashion-MNIST-cnn-keras/blob/master/model%20loss.png)
-![alt text](https://github.com/hohung77/fashion-MNIST-cnn-keras/blob/master/model%20accuracy.png)
+![alt text](https://github.com/hungho77/fashion-MNIST-cnn-keras/blob/master/image/model%20loss.png)
+![alt text](https://github.com/hungho77/fashion-MNIST-cnn-keras/blob/master/image/model%20accuracy.png)
 
 ## Experiment
 Accuracy
